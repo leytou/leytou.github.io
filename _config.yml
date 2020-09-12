@@ -2,13 +2,15 @@
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
+theme: yelee
+
 # Site
-title: Hexo
-subtitle: ''
-description: ''
+title: Leytou
+subtitle: '所思，所想'
+description: '行迹'
 keywords:
-author: John Doe
-language: en
+author: 李滔
+language: zh-Hans
 timezone: ''
 
 # URL
@@ -98,7 +100,6 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
